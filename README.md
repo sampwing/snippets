@@ -7,6 +7,7 @@
 ### Categories
  * [Docker](#docker)
  * [Git](#git)
+ * [Ubuntu](#ubuntu)
 
 ---
 ### Docker
@@ -16,4 +17,8 @@
 ### Git
 
  - [Show file changes between commits](git/show-changes-in-files-between-commits.md)
+
+### Ubuntu
+
+ - [Detailed information about aptitude package](ubuntu/detailed-information-about-aptitude-package.md)
 
