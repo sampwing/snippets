@@ -19,6 +19,10 @@
  - [Revert a pushed merge](git/revert-a-pushed-merge.md)
  - [Show file changes between commits](git/show-changes-in-files-between-commits.md)
 
+### Shell
+
+ - [Split a string using cut](shell/split-a-string-using-cut.md)
+
 ### Ubuntu
 
  - [Detailed information about aptitude package](ubuntu/detailed-information-about-aptitude-package.md)

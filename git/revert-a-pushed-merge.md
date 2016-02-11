@@ -3,7 +3,7 @@
 You can revert a pushed merge by finding the sha in the log.
 
 ```
-> git log
+$ git log
 commit f18c734092db6fd966eeeadce53806ac33f10bb6
 Merge: 52f22fc f3c5708
 Author: Sam Wing <sampwing@example.com>
