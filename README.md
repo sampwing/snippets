@@ -16,6 +16,7 @@
 
 ### Git
 
+ - [Revert a pushed merge](git/revert-a-pushed-merge.md)
  - [Show file changes between commits](git/show-changes-in-files-between-commits.md)
 
 ### Ubuntu
