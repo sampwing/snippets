@@ -10,6 +10,10 @@
  * [Ubuntu](#ubuntu)
 
 ---
+### Bash
+
+ - [Tilde expansions](bash/tilde-expansions.md)
+
 ### Docker
 
  - [Remove orphaned images to reclaim diskspace](docker/remove-orphaned-images-to-reclaim-diskspace.md)
