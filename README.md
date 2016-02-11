@@ -31,3 +31,8 @@
 
  - [Detailed information about aptitude package](ubuntu/detailed-information-about-aptitude-package.md)
 
+
+### Vimium
+
+ - [Close current tab and open in new window](vimium/close-current-tab-and-open-in-new-window.md)
+
