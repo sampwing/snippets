@@ -5,9 +5,13 @@
 ---
 
 ### Categories
+ * [Bash](#bash)
  * [Docker](#docker)
  * [Git](#git)
+ * [OSX](#osx)
+ * [Shell](#shell)
  * [Ubuntu](#ubuntu)
+ * [Vimium](#vimium)
 
 ---
 ### Bash
@@ -22,6 +26,10 @@
 
  - [Revert a pushed merge](git/revert-a-pushed-merge.md)
  - [Show file changes between commits](git/show-changes-in-files-between-commits.md)
+
+### OSX
+
+ - [Clear DNS cache](osx/clear-dns-cache.md)
 
 ### Shell
 
