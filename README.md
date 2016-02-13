@@ -8,6 +8,7 @@
  * [Bash](#bash)
  * [Docker](#docker)
  * [Git](#git)
+ * [NGINX](#nginx)
  * [OSX](#osx)
  * [Shell](#shell)
  * [Ubuntu](#ubuntu)
@@ -26,6 +27,10 @@
 
  - [Revert a pushed merge](git/revert-a-pushed-merge.md)
  - [Show file changes between commits](git/show-changes-in-files-between-commits.md)
+
+### NGINX
+
+ - [Check configuration](nginx/check-configuration.md)
 
 ### OSX
 
