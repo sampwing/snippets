@@ -22,6 +22,7 @@
 ### Docker
 
  - [Remove orphaned images to reclaim diskspace](docker/remove-orphaned-images-to-reclaim-diskspace.md)
+ - [Remove orphaned volumes to reclaim diskspace](docker/remove-orphaned-volumes-to-reclaim-diskspace.md)
 
 ### Git
 
